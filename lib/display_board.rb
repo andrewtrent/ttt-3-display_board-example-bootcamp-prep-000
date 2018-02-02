@@ -27,3 +27,5 @@ def display_board
   row
   sep
 end
+
+display_board
