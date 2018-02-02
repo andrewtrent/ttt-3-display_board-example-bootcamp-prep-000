@@ -4,11 +4,11 @@ def display_board
   end
   def l_cell 
     2.times do
-      print("    |")
+      print("   |")
     end
   end
   def r_cell 
-    print("   \n")
+    print("  \n")
   end
   def sep 
     11.times do 
