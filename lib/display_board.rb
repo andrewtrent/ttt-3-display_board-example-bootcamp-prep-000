@@ -9,7 +9,7 @@ def display_board
     end
   end
   def r_cell 
-    print("   \n")
+    print("   ")
   end
   def sep 
     11.times do 
