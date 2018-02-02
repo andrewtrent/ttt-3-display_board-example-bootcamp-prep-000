@@ -11,6 +11,7 @@ def display_board
     print("  ")
   end
   def sep 
+    br
     11.times do 
       print "-" 
     end
