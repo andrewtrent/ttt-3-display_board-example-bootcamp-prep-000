@@ -19,7 +19,6 @@ def display_board
   def row
     br
     l_cell
-    l_cell
     r_cell
   end
   row
