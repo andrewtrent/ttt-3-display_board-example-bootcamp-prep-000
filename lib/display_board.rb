@@ -1,4 +1,3 @@
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
   def br
     print("\n")
@@ -9,7 +8,7 @@ def display_board
     end
   end
   def r_cell 
-    print("   ")
+    print("   \n")
   end
   def sep 
     11.times do 
@@ -20,7 +19,6 @@ def display_board
       br
       l_cell
       r_cell
-    end
   end
   row
   sep
@@ -28,5 +26,3 @@ def display_board
   sep
   row
 end
-
-display_board
