@@ -17,7 +17,6 @@ def display_board
     end
   end
   def row
-    2.times do
       br
       l_cell
       r_cell
