@@ -8,7 +8,7 @@ def display_board
     end
   end
   def r_cell 
-    print("  ")
+    print("   ")
   end
   def sep 
     br
