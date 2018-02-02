@@ -15,6 +15,7 @@ def display_board
     11.times do 
       print "-" 
     end
+    br
   end
   def row
       br
