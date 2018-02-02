@@ -9,9 +9,9 @@ def display_board
   end
   def r_cell 
     print("   ")
+    br
   end
   def sep 
-    br
     11.times do 
       print "-" 
     end
