@@ -25,6 +25,7 @@ def display_board
   sep
   row
   sep
+  row
 end
 
 display_board
